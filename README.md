@@ -81,15 +81,6 @@ This repository complements the **Product Leadership Operating System (PLOS)**.
 
 ---
 
-## Related Repositories
-
-- Product Leadership Operating System (PLOS) → system-level architecture  
-- Executive Product AI Fluency → tools and capabilities  
-- Executive Product Experimentation Lab → applied execution  
-- Executive Product Signal Center → market intelligence and inputs  
-
----
-
 ## Guiding Principle
 
 Better decisions come from structured thinking, not intuition alone.
